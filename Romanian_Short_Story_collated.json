@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "ee8b82ba-8885-4d0f-9c86-24835c2ce8c5",
+            "collectionId": "Romanian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Romanian/Romanian_Short_Story/ee8b82ba-8885-4d0f-9c86-24835c2ce8c5/ee8b82ba-8885-4d0f-9c86-24835c2ce8c5_ro_Female.mp4"
+        },
+        {
+            "id": "5cbc7ebd-b434-45cd-8e64-5740d696661c",
+            "collectionId": "Romanian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Romanian/Romanian_Short_Story/5cbc7ebd-b434-45cd-8e64-5740d696661c/5cbc7ebd-b434-45cd-8e64-5740d696661c_ro_Female.mp4"
+        }
+    ]
+}
